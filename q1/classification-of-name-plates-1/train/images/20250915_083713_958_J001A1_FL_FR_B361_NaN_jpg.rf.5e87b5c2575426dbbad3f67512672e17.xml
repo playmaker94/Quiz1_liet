@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20250915_083713_958_J001A1_FL_FR_B361_NaN_jpg.rf.5e87b5c2575426dbbad3f67512672e17.jpg</filename>
+	<path>C:\Users\DELL\OneDrive\문서\assignment\q1xyz\classification-of-name-plates-1\train\images\20250915_083713_958_J001A1_FL_FR_B361_NaN_jpg.rf.5e87b5c2575426dbbad3f67512672e17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>class3_heavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>183</ymin>
+			<xmax>409</xmax>
+			<ymax>555</ymax>
+		</bndbox>
+	</object>
+</annotation>
